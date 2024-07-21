@@ -1,0 +1,44 @@
+.header {
+  display: block;
+  background-color: beige;
+  padding: 20px;
+  box-shadow: 10px 10px 5px lightblue;
+  margin: 10px;
+
+  /* width: 50%; */
+}
+h1 {
+  display: inline;
+}
+li {
+  display: inline;
+}
+
+.navbar {
+  display: inline;
+  margin-left: 60%;
+}
+.About {
+  margin: 10px;
+  background-color: beige;
+  padding: 4px;
+  text-align: center;
+  /* shape-outside: margin-box; */
+  box-shadow: 10px 10px 5px lightblue;
+}
+
+img {
+  border-radius: 50px;
+  border-color: aqua;
+  border-width: 5px;
+  border-style: solid;
+}
+.contact {
+  margin: 10px;
+  background-color: beige;
+  padding: 4px;
+  text-align: center;
+  /* shape-outside: margin-box; */
+  box-shadow: 10px 10px 5px lightblue;
+  font-style: italic;
+}
